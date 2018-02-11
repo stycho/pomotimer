@@ -1,0 +1,33 @@
+body {
+  font-family: 'Source Code Pro', monospace !important;
+  background-color: #458985 !important;
+}
+
+.timer-body {
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+
+}
+
+.timer-display {
+  background-color: #D7D6A5;
+  color: #074358;
+  font-size: 4em;
+}
+
+.timer-buttons {
+  background-color: #074358;
+  font-size: 1em;
+  color: #D7D6A5;
+  margin: 0 5px 20px 5px !important;
+}
+
+.time {
+  font-size: 3em;
+}
+
+#equation {
+  font-size: .5em;
+}
